@@ -1,6 +1,6 @@
 # 🖥 Back End Developer
 
-Hey, I'm LinuxServer passionate Back-End developer from germany.
+Hey, I'm Jerome passionate Back-End developer from germany.
 
 ## Skills
 <img src="https://img.shields.io/badge/JAVA%20-BF6101" />  
