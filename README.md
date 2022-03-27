@@ -1,4 +1,4 @@
-# 🖥 Back End Developer
+# 🖥 Backend Developer
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=LinuxClient&show_icons=true alt=LinuxClient />
