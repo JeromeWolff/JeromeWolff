@@ -1,6 +1,5 @@
-# 🖥 Backend Developer
+# 🖥 Full Stack Developer
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=JeromeWolff&show_icons=true alt=JeromeWolff />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeWolff&layout=compact" alt="JeromeWolff" />
-</p>
+![JeromeWolff's Stats](https://github-readme-stats.vercel.app/api?username=JeromeWolff&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![JeromeWolff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeromeWolff&theme=tokyonight&hide_border=true)
+![JeromeWolff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeWolff&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
